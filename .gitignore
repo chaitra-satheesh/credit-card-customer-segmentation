@@ -1,0 +1,7 @@
+﻿data/CC GENERAL.csv
+outputs/dashboard_data.csv
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+venv/

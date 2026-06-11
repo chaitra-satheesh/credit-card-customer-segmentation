@@ -1,0 +1,8 @@
+{
+  "kmeans_silhouette": 0.2596,
+  "gmm_silhouette": 0.169,
+  "ari": 0.4217,
+  "nmi": 0.4758,
+  "gmm_confidence": 0.9564,
+  "uncertain_customers": 234
+}
